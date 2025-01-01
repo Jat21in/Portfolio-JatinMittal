@@ -37,7 +37,7 @@ Ensure the following are installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/animated-3d-portfolio.git
+   git clone https://github.com/Jat21in/animated-3d-portfolio.git
    cd animated-3d-portfolio
    ```
 2. **Install dependencies:**
@@ -92,11 +92,11 @@ Contributions are highly valued! To contribute:
 
 1. **Fork the repository:**
    ```bash
-   git fork https://github.com/your-username/animated-3d-portfolio.git
+   git fork https://github.com/Jat21in/animated-3d-portfolio.git
    ```
 2. **Create a new branch:**
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feature/
    ```
 3. **Commit changes:**
    ```bash
