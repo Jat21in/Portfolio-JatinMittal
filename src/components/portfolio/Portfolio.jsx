@@ -36,7 +36,7 @@ const items = [
     img: `${import.meta.env.BASE_URL}p5.jpg`,
     title: "Animated Portfolio Website",
     desc: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure laboriosam tempore consectetur, atque maiores culpa quia, repellat id, dicta esse fugit neque voluptatem provident itaque voluptates minima. Repudiandae, provident hic.",
-    link: "/",
+    link: "https://jat21in.github.io/Portfolio-JatinMittal/",
   },
 ];
 
